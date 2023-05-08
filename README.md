@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-scene-using-raptor-graphics
+<br>
+Using the Raptor program, create a scene using Raptor Graphics (which you draw boxes, lines, ect. in a graph grid X/Y number format) that does the following: Flood_Fill within the object, Get_Mouse_Button (left or right click to continue the program), Sub Chart, Drawing an object with a loop (which this loop would be done in the sub chart).I’m looking at maybe a hill being drawn with the flood fill and then a a star or something drawn above it with the sub chart/loop.
